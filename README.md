@@ -1,4 +1,4 @@
-[![MasterHead](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)
+![MasterHead](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Lanka Karunathilake</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
